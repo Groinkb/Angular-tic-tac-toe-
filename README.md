@@ -42,11 +42,11 @@ Résultat attendu d'une partie gagnante pour X :
 
 Test unitaire pour le composant App :
 
-##Support
+## Support
 Si vous rencontrez des problèmes ou avez des questions concernant ce projet, vous pouvez me contacter à l'adresse suivante :
 benjamin@mossu.ch
 
-##Roadmap
+## Roadmap
 Voici quelques améliorations à venir pour ce projet :
 
 Ajouter la fonctionnalité de partie multijoueur en ligne.
@@ -54,15 +54,15 @@ Inclure des effets visuels lors de la victoire.
 Optimisation pour les appareils mobiles.
 Les suggestions d'amélioration peuvent être partagées dans le README ou via des issues.
 
-##Contributions
+## Contributions
 Les contributions sont les bienvenues. Si vous souhaitez contribuer à ce projet, voici quelques consignes :
 
-##Forkez le projet.
+## Forkez le projet.
 Créez une branche pour vos modifications.
 Soumettez une pull request avec une description claire des modifications.
 N'oubliez pas d'exécuter les tests unitaires (ng test) pour vérifier que votre code n'introduit pas de régressions.
 
-##Auteurs et remerciements
+## Auteurs et remerciements
 Développé par Groinkb.
 
 
