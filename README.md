@@ -38,4 +38,3 @@ Avant de pouvoir utiliser ce projet, vous devez avoir les outils suivants instal
   cd Angular-tic-tac-toe-
 
 
-
