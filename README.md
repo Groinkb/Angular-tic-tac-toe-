@@ -33,14 +33,17 @@ Avant de pouvoir utiliser ce projet, vous devez avoir les outils suivants instal
    ```bash
    git clone https://github.com/Groinkb/Angular-tic-tac-toe-.git
 
-##Captures d'écran
-Voici quelques captures d'écran illustrant l'état du projet à différentes étapes :
+2. Accédez au dossier du projet :
+    ```bash
+    cd Angular-tic-tac-toe-
+3. Installez les dépendances :
+    ```bash
+    npm install
+4. Lancez le serveur de développement :
+    ```bash
+    ng serve
 
-Premier rendu du composant Square :
-
-Résultat attendu d'une partie gagnante pour X :
-
-Test unitaire pour le composant App :
+Le jeu sera disponible à l'adresse suivante : http://localhost:4200/.
 
 ## Support
 Si vous rencontrez des problèmes ou avez des questions concernant ce projet, vous pouvez me contacter à l'adresse suivante :
