@@ -1,5 +1,7 @@
 # Angular Tic-Tac-Toe
 
+![tic tac toe](https://github.com/user-attachments/assets/75f78740-126b-4fbf-8299-c3a38f1d4f62)
+
 **Date de création :** 19 juillet 2024  
 **Dernière mise à jour :** 4 octobre 2024  
 
