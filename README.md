@@ -32,3 +32,10 @@ Avant de pouvoir utiliser ce projet, vous devez avoir les outils suivants instal
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/Groinkb/Angular-tic-tac-toe-.git
+
+2. Accédez au dossier du projet :
+```bash
+  cd Angular-tic-tac-toe-
+
+
+
